@@ -224,3 +224,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 22: January 22, 2018, Monday
+
+**Today's Progress**: Today I completed the object oriented and functional programming challenges and began the basic algorithm and scripting challenges. I'll continue working on those tomorrow.
+
+
+**Thoughts**: Feeling pretty good about javascript thus far. Yes, I am getting a little challenged because I feel that my logic isnt' up to snuff. That will improve over time. My struggle today is with the palindrome challenge. I need to try and find some supplimental tutorial to fill in some of these gaps. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
