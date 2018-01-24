@@ -236,3 +236,16 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 23: January 23, 2018, Tuesday
+
+**Today's Progress**: Today I worked on basic algorithm and scripting challenges at free code camp. I'll continue working on through those tomorrow.
+
+
+**Thoughts**: The algorithms challenges are definitely taking awhile to complete. On average I think I'm completing 1 per coding session. Even though it is taking awhile, I don't feel like I'm stuck. The challenges and projects have helped me to search using the right questions. It's like I have one foot in order and the other in chaos and it's awesome! Definitely feel like I'm actually progressing in my knowledge level and dev proficiency. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
