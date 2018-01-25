@@ -249,3 +249,15 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+### Day 24: January 24, 2018, Wednesday
+
+**Today's Progress**: Today I worked on the Title Case a Sentence in the basic algorithm and scripting challenges at free code camp. I'll continue working on that guy tomorrow.
+
+
+**Thoughts**: I'm really struggling with this challenge. I've looked at the hints, but haven't checked the solution nor do I want to do that. The script that I have actually passes all of the test cases, but something is still missing. I'll continue to do more searching on replace(), split(), charAt(), toUpperCase(), and toLowerCase() functions. Perhaps I can find a good tutorial to go through that can help connect the dots. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
