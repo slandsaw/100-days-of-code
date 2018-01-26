@@ -261,3 +261,15 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+### Day 25: January 25, 2018, Thursday
+
+**Today's Progress**: Today I completed Title Case a Sentence and two additional challenges in the basic algorithm and scripting challenges at free code camp. I'll continue working through this set of challenges tomorrow.
+
+
+**Thoughts**: I feel really bad about this, but I punted on the Title Case a Sentence challenge. In some way I feel justified because I did have a working solution, but I couldn't for the life of me work out what they were expecting. In any case, the follow two challenges I was able to solve without getting hints or anything. Continued to use the search, read, ask method to help knock those out. I did find a cool way to [find the max value in an array](http://www.jstips.co/en/javascript/calculate-the-max-min-value-from-an-array/). I am pledging to myself right now that I will not reach for any hints or solutions going forward with these challenges. The result of that is just impacting my learning and I don't want that.  
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
