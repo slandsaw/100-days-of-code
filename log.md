@@ -273,12 +273,24 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 26: January 26, 2018, Saturday
+### Day 26: January 26, 2018, Friday
 
 **Today's Progress**: Today I completed the Confirm the Ending and Repeat a string repeat a string challenges in the basic algorithm and scripting section at free code camp. I'll continue working through this set of challenges tomorrow.
 
 
 **Thoughts**: Today I kept to my promise of not looking up hints or solutions to these challenges. I feel like there is a mental block that, if I keep chipping away at it, there will be a break through in my logic skills. I'm definitely not thinking like a developer, but I think that will come.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 27: January 27, 2018, Saturday
+
+**Today's Progress**: Today I completed the Truncate a string in the basic algorithm and scripting section at free code camp. I'll continue working through this set of challenges tomorrow.
+
+
+**Thoughts**: Feeling a little discouraged that I'm only capable of completing one challenge a night. It's causeing me to dread the coding sessions a little bit. On the updside, I didn't get any hints or solutions and that felt pretty good. 
 
 **Link(s) to CodePin projects**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
