@@ -297,3 +297,14 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
+### Day 28: January 28, 2018, Sunday
+
+**Today's Progress**: Today I completed two challenges instead of just one like yesterday. I'll continue working through this set of challenges tomorrow.
+
+
+**Thoughts**: Still struggling through these algorithm and scripting challenges. I made an informal goal on twitter that I'd shoot for completing two challenges and I accomplished that. I nearly completed 3, so maybe tomorrow that will be my goal -  complete two or three algorithm and scripting challenges.  
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
