@@ -308,3 +308,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 29: January 29, 2018, Monday
+
+**Today's Progress**: Today I didn't complete any challenges. I worked the entire session on the Mutation challenge and still haven't completed it. I'll continue working through that and the other challenges tomorrow.
+
+
+**Thoughts**: Today was a terrible day. I didn't complete a single challenge because I still have not managed how to figure out the mutation challenge. Even though I am frustrated, I'm not going to give up; I'll continue to wrestle with it tomorrow until something clicks and I complete it.   
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
