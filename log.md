@@ -320,3 +320,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 30: January 31, 2018, Wednesday
+
+**Today's Progress**: Once again, I didn't complete any challenges. The entire session was spent working on the Mutation challenge. I'll continue working through that and the other challenges tomorrow.
+
+
+**Thoughts**: All I can say is wow. This is probably the lowest day I've had. Something is just not clicking with this mutation challenge and I'm getting super frustrated about it. I know that I need to be using indexOf(), maybe a for loop and probable also recursion, but I just can't put the pieces together. Searching and reading has lead me to [this site](http://freewebdesigntutorials.com/javaScriptTutorials/jsStringObject/indexOfMethod.htm), but I'm still tempted to start looking at hints for this thing. Must. Resist. I'll try again tomorrow. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
