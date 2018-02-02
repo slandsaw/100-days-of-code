@@ -332,3 +332,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 31: February 1, 2018, Thursday
+
+**Today's Progress**: Today I finally completed the mutation challenge! I'll continue working through the other challenges tomorrow.
+
+
+**Thoughts**: Today made up for the rough day I had yestereday. I managed to finish a challenge that I honestly didn't think I was ever going to complete. Looking forward to starting the next challenge tomorrow.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
