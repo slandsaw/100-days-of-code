@@ -344,3 +344,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 32: February 2, 2018, Friday
+
+**Today's Progress**: Today I worked on and almost completed the falsy bouncer challenge. I'll continue working that one tomorrow and maybe incorporate a basic javascript video from pluralsight.
+
+
+**Thoughts**: Even thought I didn't complete a challenge, I still felt like I was in some sort of flow state. As a reult, something has started to click a little bit with regard to callback functions. It's more rewarding for me to understand the concepts than to just complete challenges.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
