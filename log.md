@@ -356,3 +356,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 33: February 5, 2018, Sunday
+
+**Today's Progress**: Today I worked on and completed the falsy bouncer challenge. I didn't watch any Pluralsight videos today; thought I might just finish these algorithm challenges first.
+
+
+**Thoughts**: Having a difficult time staying motivated the last couple of days. I've noticed that if I miss one day, that it's extremely difficult to get back on track. The algorithm challenges are really kicking my behind so I think that's a contributing factor to my lack of motivation. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
