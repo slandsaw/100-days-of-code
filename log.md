@@ -369,7 +369,7 @@
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 34: February 6, 2018, Monnday
+### Day 34: February 6, 2018, Monday
 
 **Today's Progress**: Today I worked on and completed the seek and destroy challenge. I have decided to wait until after I finish the algorithm challenges before looking at pluralsight. 
 
