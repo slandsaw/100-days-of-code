@@ -368,3 +368,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 34: February 6, 2018, Monnday
+
+**Today's Progress**: Today I worked on and completed the seek and destroy challenge. I have decided to wait until after I finish the algorithm challenges before looking at pluralsight. 
+
+
+**Thoughts**: Still struggling with motivation although not nearly as bad as yesterday. It's hard to start, but once I get going the time flies and I want to continue. After I finish the basic algorithm challenges I'm going to branch off to pluralsight or some other resource and try to strengthen my javascript skills. I'll probably try that out for a few days. We'll see, though.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
