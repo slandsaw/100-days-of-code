@@ -380,3 +380,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 35: February 7, 2018, Tuesday
+
+**Today's Progress**: Today I worked on and completed the where do I belong challenge. Tomorrow I hope to complete the final basic algorithm scripting challenge.
+
+
+**Thoughts**: Motivation was somewhat less of a problem for me today. Completing the where do I belong challenge was a nice little confidence boost. I felt like I was able to reason my way through the challenge to come up with the solution. The solution was a lot simpler than I expected. I feel like my ability to reduce complexity and start with the simple solution first is improving. Prior to free code camp I would've overthought how to solve the challenges. 
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
