@@ -392,3 +392,15 @@
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
 2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+
+### Day 36: February 8, 2018, Wednesday
+
+**Today's Progress**: Today I FINALLY completed the basic algorithm scripting challenges! I'm not sure if I'll continue with the free code camp challenges as I want to take a deeper dive into javascript.
+
+
+**Thoughts**: Put in double-time today. I found a really [great site](https://www.selftaughtjs.com/algorithm-sundays-breaking-a-rot-13-caesar-cipher/) to help get me across the goaline on the Caesers Cipher challenge. Feeling pretty good about progress so far but I need to decide if I want to sort of branch off and dig deeper into understanding javascript. Maybe I'll get some feedback from Twitter.
+
+**Link(s) to CodePin projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePin - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePin - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
