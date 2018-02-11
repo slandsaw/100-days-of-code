@@ -369,7 +369,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 34: February 6, 2018, Monday
+### Day 34: February 6, 2018, Tuesday
 
 **Today's Progress**: Today I worked on and completed the seek and destroy challenge. I have decided to wait until after I finish the algorithm challenges before looking at pluralsight. 
 
@@ -381,7 +381,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 35: February 7, 2018, Tuesday
+### Day 35: February 7, 2018, Wednesday
 
 **Today's Progress**: Today I worked on and completed the where do I belong challenge. Tomorrow I hope to complete the final basic algorithm scripting challenge.
 
@@ -393,7 +393,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 36: February 8, 2018, Wednesday
+### Day 36: February 8, 2018, Thursday
 
 **Today's Progress**: Today I FINALLY completed the basic algorithm scripting challenges! I'm not sure if I'll continue with the free code camp challenges as I want to take a deeper dive into javascript.
 
@@ -405,12 +405,25 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 37: February 9, 2018, Thursday
+### Day 37: February 9, 2018, Friday
 
 **Today's Progress**: Completed the JSON APIs and Ajax challenges at Free Code Camp. Now I'm on to the intermediate frontend dev projects. Specifically I'm starting to work on the random quote generator. I looked at the example codepen and found that it's an api from Mashaper, so I went ahead and signed up for an account.
 
 
 **Thoughts**: For now I have decided to stay on track and continue pursuing the front end dev certificate. If I want to do extracurricular javascript activities, I'll pursue that outside of the 100 days of code stuff. Who knows, that decision may change tomorrow. ;)
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 38: February 10, 2018, Saturday
+
+**Today's Progress**: Today I took a little bit of time to work on the random quote generator project. Spent more of my time working with postman and some Visual Studio Team Services REST APIs.
+
+
+**Thoughts**: Getting back into the projects and I've discovered that I've forgotten most of what I've learned about bootstrap. lol So I'm going over the bootstrap 4 documentation to sort of refresh my memory. I think this first project will be fairly easy to compplete.
 
 **Link(s) to CodePen projects**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
