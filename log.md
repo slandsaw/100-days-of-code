@@ -357,7 +357,10 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 33: February 5, 2018, Sunday
+### Day 33: February 3, 2018, Saturday
+**Today's Progress**: Skipped
+
+### Day 33: February 4, 2018, Sunday
 
 **Today's Progress**: Today I worked on and completed the falsy bouncer challenge. I didn't watch any Pluralsight videos today; thought I might just finish these algorithm challenges first.
 
@@ -369,7 +372,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 34: February 6, 2018, Tuesday
+### Day 34: February 5, 2018, Monday
 
 **Today's Progress**: Today I worked on and completed the seek and destroy challenge. I have decided to wait until after I finish the algorithm challenges before looking at pluralsight. 
 
@@ -381,7 +384,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 35: February 7, 2018, Wednesday
+### Day 35: February 6, 2018, Tuesday
 
 **Today's Progress**: Today I worked on and completed the where do I belong challenge. Tomorrow I hope to complete the final basic algorithm scripting challenge.
 
@@ -393,7 +396,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 36: February 8, 2018, Thursday
+### Day 36: February 7, 2018, Wednesday
 
 **Today's Progress**: Today I FINALLY completed the basic algorithm scripting challenges! I'm not sure if I'll continue with the free code camp challenges as I want to take a deeper dive into javascript.
 
@@ -405,7 +408,7 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 
-### Day 37: February 9, 2018, Friday
+### Day 37: February 8, 2018, Thursday
 
 **Today's Progress**: Completed the JSON APIs and Ajax challenges at Free Code Camp. Now I'm on to the intermediate frontend dev projects. Specifically I'm starting to work on the random quote generator. I looked at the example codepen and found that it's an api from Mashaper, so I went ahead and signed up for an account.
 
@@ -417,6 +420,9 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 38: February 9, 2018, Friday 
+**Today's Progress**: Skipped.
 
 ### Day 38: February 10, 2018, Saturday
 
