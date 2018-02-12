@@ -436,3 +436,16 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 39: February 11, 2018, Sunday
+
+**Today's Progress**: Today I tspent the entire hour work on the random quote generator. Signed up for a random quote api over at mashape.com and hooked it all up. Now I need to iron out some formatting and also setup an onload event that will fetch the first quote. 
+
+
+**Thoughts**: Had a bit of fun working on the quote generator project tonight. It was nice to connect things together and watch data dynamically apear on the screen just from the press of a button. 
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
