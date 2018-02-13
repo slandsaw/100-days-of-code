@@ -449,3 +449,16 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 40: February 12, 2018, Monday
+
+**Today's Progress**: I didn't do any project work today, but I did build a task group importer in Postman. I'll return to the random quote generator tomorrow. 
+
+
+**Thoughts**: I've learned quite a bit more about just how powerful postman can be for certain things. I learned how to chain requests and set and get variables. There is a feature gap in an app I administer at work and this postman utility I built filled that gap. I'd say this was a pretty successful day.
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
