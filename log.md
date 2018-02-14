@@ -462,3 +462,16 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 41: February 13, 2018, Tuesday
+
+**Today's Progress**: I focused on the random quote generator today. The main functionality of the app is complete. A random quote is generated when the page loads and any time you click the new quote button. Also learned that it's easier/better(?) to use JSON.parse instead of JSON.stringify when displaying text without the double quotes. Tomorrow I'll work on some styling.
+
+
+**Thoughts**: Today was a fun day. Fetching data from a REST endpoint and displaying that on a web page just makes me so happy for some reason. 
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
