@@ -475,3 +475,16 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 42: February 20, 2018, Monday
+
+**Today's Progress**: Back from a few days off and I'm back at it. Today I returned my focus on the random quote generator. I added the tweet feature and tomorrow I'll add a bit of styling.
+
+
+**Thoughts**: Felt pretty good to get back at it today, but it was still a little difficult to find motivation. I'm finding out first-hand that I really don't want to take too much time away from these challenges.
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
