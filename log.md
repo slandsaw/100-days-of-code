@@ -476,12 +476,25 @@
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
 
-### Day 42: February 20, 2018, Monday
+### Day 42: February 19, 2018, Monday
 
 **Today's Progress**: Back from a few days off and I'm back at it. Today I returned my focus on the random quote generator. I added the tweet feature and tomorrow I'll add a bit of styling.
 
 
 **Thoughts**: Felt pretty good to get back at it today, but it was still a little difficult to find motivation. I'm finding out first-hand that I really don't want to take too much time away from these challenges.
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 43: February 21, 2018, Wednesday
+
+**Today's Progress**: Today I added a little bit of styling to complete the random quote generator. Tomorrow I'll get started on the weather app project. 
+
+
+**Thoughts**: Stuggling to stay motivated and push through the certification program. Not sure where this is coming from, but I think it is due to all of the time off I have taken over the last week or so. I need to work out a better schedule or I will end up missing more days. 
 
 **Link(s) to CodePen projects**
 1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
