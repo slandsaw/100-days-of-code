@@ -501,3 +501,17 @@
 2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+
+### Day 44: February 22, 2018, Thursday
+
+**Today's Progress**: Today I started on the weather app. I found some pretty neat animated SVGs that I might end up using to show the weather conditions. I also found a pretty descent weather api from the same folks that created the random quote api. I was able to reuse a bit of the plumbing from the random quote generator which helped speed things a long. Tomorrow I'll work on getting lat and lng and pass that in to my getWeather function. 
+
+
+**Thoughts**: Struggled a bit less with motivation today once I actually got going. :) Seeing the random quote generator and weather come together so quickly has given me a nice little shot in the arm. I'm looking forward to tomorrow. 
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+5. [CodePen - Show the Local Weather](https://codepen.io/slandsaw/full/EQpyYd/)
