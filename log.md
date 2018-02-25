@@ -515,3 +515,17 @@
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
 5. [CodePen - Show the Local Weather](https://codepen.io/slandsaw/full/EQpyYd/)
+
+### Day 45: February 24, 2018, Saturday
+
+**Today's Progress**: Continued working on the weather app. Now it uses my browser's built-in navigation and passes those coordinates along in the api request for the current weather. I'm now looking at how I can pull images from flickr based on location and weather conditions.
+
+
+**Thoughts**: Still struggling a bit with motivation, but I will survive! :) I thought it only took 21 days to form a habit, or was that 60? Oh well, I'm still pushing forward. 
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+5. [CodePen - Show the Local Weather](https://codepen.io/slandsaw/full/EQpyYd/)
