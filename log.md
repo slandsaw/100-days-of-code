@@ -529,3 +529,17 @@
 3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
 4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
 5. [CodePen - Show the Local Weather](https://codepen.io/slandsaw/full/EQpyYd/)
+
+### Day 46: February 25, 2018, Sunday
+
+**Today's Progress**: Continued working on the weather app. Thinking about switching to a different api for the weather. I'll have to do a bit more research before deciding on that. 
+
+
+**Thoughts**: Today felt pretty good as I was actually looking forward to working more on the weather app. I'm excited about actually accomplishing some of the goals I have for this project. 
+
+**Link(s) to CodePen projects**
+1. [Completed Challenges](https://www.freecodecamp.org/slandsaw)
+2. [CodePen - Tribute Page](https://codepen.io/slandsaw/full/eyGVOK)
+3. [CodePen - Portfolio Page](https://codepen.io/slandsaw/full/vpWzEj)
+4. [CodePen - Random Quote Machine](https://codepen.io/slandsaw/full/bLgmmo/)
+5. [CodePen - Show the Local Weather](https://codepen.io/slandsaw/full/EQpyYd/)
